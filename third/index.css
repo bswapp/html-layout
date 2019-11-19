@@ -1,0 +1,56 @@
+body {
+  margin: 0px;
+}
+.grayTop {
+  height: 85px;
+  width: 100vw;
+  background-color: #e3e3e3;
+  position: relative;
+}
+
+.blueSquare {
+  height: 65px;
+  width: 65px;
+  background-color: #0291e3;
+  margin-left: 9px;
+  position: absolute;
+  top: 12%;
+}
+
+.whiteSpace {
+  height: 195px;
+  width: 100vw;
+  background-color: white;
+}
+
+.text {
+  text-align: left;
+  padding-top: 50px;
+  padding-left: 15px;
+  font-family: "Hind Siliguri", sans-serif;
+  font-weight: 100;
+}
+
+.darkBlue {
+  height: 100px;
+  width: 100vw;
+  background-color: #0087e0;
+}
+
+.tealBlock {
+  height: 100px;
+  width: 100vw;
+  background-color: #07e3c6;
+}
+
+.greenBlock {
+  height: 110px;
+  width: 100vw;
+  background-color: #b8e36d;
+}
+
+.yellowBlock {
+  height: 115px;
+  width: 100vw;
+  background-color: #ffe600;
+}
