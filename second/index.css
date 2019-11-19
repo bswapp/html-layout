@@ -1,0 +1,71 @@
+body {
+  margin: 0px;
+}
+
+.firstRectangle {
+  height: 150px;
+  width: 95%;
+  border: solid 4px black;
+  margin: 10px 15px;
+  position: relative;
+}
+
+.purpleRectangle {
+  height: 105px;
+  width: 32px;
+  background-color: #7f32a8;
+  position: absolute;
+  top: 36px;
+  left: 7px;
+}
+
+.greenSquare {
+  height: 130px;
+  width: 295px;
+  background-color: green;
+  position: absolute;
+  top: 10px;
+  left: 75px;
+}
+
+.circle {
+  height: 130px;
+  width: 140px;
+  background-color: lightskyblue;
+  position: absolute;
+  border-radius: 50%;
+  top: 10px;
+  left: 420px;
+}
+.secondRectangle {
+  height: 225px;
+  width: 95%;
+  border: dotted 3px black;
+  margin: 20px 15px;
+}
+
+.yellowRectangle {
+  height: 175px;
+  width: 85%;
+  background-color: #f7f7a1;
+  margin: 25px 85px;
+  box-shadow: 8px 10px 7px 0px rgba(0, 0, 0, 0.98);
+}
+
+.lastRectangle {
+  height: 245px;
+  width: 30%;
+  border: solid 1px lightgray;
+  margin: auto;
+  margin-top: 65px;
+  box-shadow: 2px 2px 2px 0px lightgrey;
+}
+
+p {
+  color: #39006e;
+  font-size: 1.5em;
+  text-align: center;
+  margin-top: 85px;
+  font-weight: 600;
+  letter-spacing: 4px;
+}
